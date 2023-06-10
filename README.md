@@ -24,8 +24,8 @@ We are currently in design phase and looking to take contributions for #hacktobe
     - ie not merge things to main but have them available on dev and feature branches
 
 ## Other state machine libraraies
- * (StatemachineOne)[https://github.com/eftec/statemachineone]
+ * [StatemachineOne](https://github.com/eftec/statemachineone)
 
 ## Other Resources
-* (Creating a statemachine usign PHP)[https://medium.com/cook-php/creating-a-state-machine-using-php-ddef9395430e]
+* [Creating a statemachine usign PHP](https://medium.com/cook-php/creating-a-state-machine-using-php-ddef9395430e)
 * 

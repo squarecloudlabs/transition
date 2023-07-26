@@ -25,7 +25,8 @@ We are currently in design phase and looking to take contributions for #hacktobe
 
 ## Other state machine libraraies
  * [StatemachineOne](https://github.com/eftec/statemachineone)
+ * [Laravel Eloquent State Machines](https://github.com/asantibanez/laravel-eloquent-state-machines)
+ * [Symfony Workflow](https://symfony.com/doc/current/workflow.html)
 
 ## Other Resources
 * [Creating a statemachine usign PHP](https://medium.com/cook-php/creating-a-state-machine-using-php-ddef9395430e)
-* [Symfony Workflow](https://symfony.com/doc/current/workflow.html)
